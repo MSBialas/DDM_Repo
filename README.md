@@ -1,1 +1,1 @@
-# Drift-Diffusion-Modelling---Risk-Taking
+# Drift-Diffusion-Modelling for Risk-Taking
